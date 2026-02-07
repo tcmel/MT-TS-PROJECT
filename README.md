@@ -69,3 +69,6 @@ El proyecto utiliza separación de responsabilidades:
 -   Map → lógica del mapa y markers.
 -   Main → conexión entre UI, API y mapa.
 
+
+<img width="1873" height="643" alt="image" src="https://github.com/user-attachments/assets/a37d0a62-055b-480c-a3c9-0c48687910d3" />
+
